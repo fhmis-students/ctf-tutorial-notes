@@ -10,10 +10,12 @@ const todoItems = ref({
 onMounted(() => {
   const todoItemsElements = document.querySelectorAll(`.${$style.todoList} p`);
   todoItemsElements.forEach((itemElement) => {
-    if (JSON.parse(localStorage.getItem("todoItems")) !== null) {
-    }
     todoItems.value.todo.push(itemElement.innerText);
-    const todoItemIcon = document.createElement();
+    const storage_complete_items = localStorage.getItem("completeItems");
+    if (storage_complete_items !== null) {
+      todoItems.value.complete = [...JSON.parse(storage_complete_items)];
+    }
+    const todoItemIcon = document.createElement("span");
   });
 });
 </script>
