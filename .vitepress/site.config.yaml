@@ -1,0 +1,10 @@
+nav:
+  - text: Home
+    link: /
+
+sidebar:
+  "/":
+    - text: Home
+      items:
+        - text: index
+          link: /
