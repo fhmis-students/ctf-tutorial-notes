@@ -8,5 +8,9 @@ sidebar:
       items:
         - text: index
           link: /
+        - text: 第一題
+          link: /topic1.md
+        - text: 第二題
+          link: /topic2.md
         - text: 第三題
-          link: /topic.md
+          link: /topic3.md
