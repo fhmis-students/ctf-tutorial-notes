@@ -10,6 +10,6 @@ hero:
           text: 開始探索！
           link: /all-list
         - theme: alt
-          text: 直接 OSINT
-          link: /osint/
+          text: 發起攻擊
+          link: /attack-todo
 ---

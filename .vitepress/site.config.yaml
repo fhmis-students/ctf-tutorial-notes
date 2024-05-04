@@ -3,16 +3,23 @@ nav:
     link: /
 
 sidebar:
-  "/":
-    - text: 總表
-      items:
-        - text: 回到首頁
-          link: /
-        - text: OSINT
-          link: /osint/
-        - text: 弱密碼
-          link: /weekpw/
-        - text: 第二題
-          link: /topic2.html
-        - text: 第三題
-          link: /topic3.html
+  - text: 學習手冊列表
+    items:
+      - text: 回到首頁
+        link: /
+      - text: 總列表
+        link: /all-list.html
+      - text: 攻擊發起準備
+        link: /attack-todo.html
+      - text: OSINT
+        link: /osint/
+      - text: 弱密碼
+        link: /weekpw/
+      - text: 權限提升
+        items:
+          - text: 什麼是權限
+            link: /privilege_esc/
+          - text: 垂直權限提升
+            link: /privilege_esc/verticle.html
+          - text: 水平權限提升
+            link: /privilege_esc/horizontal.html
