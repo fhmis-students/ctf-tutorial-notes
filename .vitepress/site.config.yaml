@@ -23,3 +23,9 @@ sidebar:
             link: /privilege_esc/verticle.html
           - text: 水平權限提升
             link: /privilege_esc/horizontal.html
+      - text: 注入攻擊
+        items:
+          - text: 注入攻擊介紹
+            link: /injection/
+          - text: 資料庫注入 SQL injection
+            link: /injection/attack-tutorial.html

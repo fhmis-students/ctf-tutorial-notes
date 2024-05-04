@@ -18,6 +18,8 @@ outline: [2,3]
 
 這是 OWASP 於 2021 年公告的「網站安全漏洞排行」的第一名！
 
+![OWASP 2021 top 10; image from: https://www.indusface.com/learning/what-are-the-owasp-top-10-risks-2021/](https://www.indusface.com/wp-content/uploads/2022/05/KC-Image.png)
+
 ### 垂直權限提升
 
 如果使用者可以存取他們原本不被允許存取的功能，這就是垂直權限提升。例如，如果一個非管理員使用者可以進入管理員頁面，在那裡刪除其他使用者的帳號，這就是垂直權限提升。
