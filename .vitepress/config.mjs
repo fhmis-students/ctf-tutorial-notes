@@ -21,5 +21,6 @@ export default defineConfig({
     config: (md) => {
       md.use(customPlugin.md_container_plugin());
     },
+    math: true,
   },
 });

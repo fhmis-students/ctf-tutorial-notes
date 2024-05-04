@@ -21,6 +21,7 @@
     "daisyui": "^4.10.2",
     "lodash": "^4.17.21",
     "markdown-it-container": "^4.0.0",
+    "markdown-it-mathjax3": "^4.3.2",
     "postcss": "^8.4.38",
     "postcss-prefix-selector": "^1.16.1",
     "prettier": "^3.2.5",

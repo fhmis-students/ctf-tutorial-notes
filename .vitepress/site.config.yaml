@@ -10,6 +10,8 @@ sidebar:
           link: /
         - text: OSINT
           link: /osint/
+        - text: 弱密碼
+          link: /weekpw/
         - text: 第二題
           link: /topic2.html
         - text: 第三題
