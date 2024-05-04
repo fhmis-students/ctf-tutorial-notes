@@ -4,13 +4,13 @@ nav:
 
 sidebar:
   "/":
-    - text: Home
+    - text: 總表
       items:
-        - text: index
+        - text: 回到首頁
           link: /
-        - text: 第一題
-          link: /topic1.md
+        - text: OSINT
+          link: /osint/
         - text: 第二題
-          link: /topic2.md
+          link: /topic2.html
         - text: 第三題
-          link: /topic3.md
+          link: /topic3.html

@@ -1,24 +1,15 @@
 ---
-layout: doc
+layout: home
+
+hero:
+    name: FHSH Security
+    text: 學習手冊
+    tagline: CODE{Cy63rS3cur17y}
+    actions: 
+        - theme: brand
+          text: 開始探索！
+          link: /all-list
+        - theme: alt
+          text: 直接 OSINT
+          link: /osint/
 ---
-
-::: TodoList
-
-## Hello
-
-Hi
-
----
-
-hello
-
----
-
-how are you
-:::
-
-[第一題提示](/topic1.md)
-
-[第三題提示](/topic2.md)
-
-[第三題提示](/%20topic3.md)
