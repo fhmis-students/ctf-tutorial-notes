@@ -19,6 +19,7 @@
 - 修改 Cookie 資料
     ![修改Cookie](/images/cookie_interface.png)
 - 修改網址
+    ![修改url](/images/url.png)
 
 ## 漏洞攻擊
 
