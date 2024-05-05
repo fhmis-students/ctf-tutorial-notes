@@ -1,3 +1,7 @@
+---
+outline: [2, 3]
+---
+
 # SQL injection
 
 ## 什麼是 SQL injection

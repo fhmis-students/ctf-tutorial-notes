@@ -56,7 +56,7 @@ watch(pwEntropySrc, (newPW) => {
         type="text"
         v-model="pwEntropySrc"
         class="w-full border-2 border-slate-600 py-3 pl-4 focus:border-slate-800"
-        placehoder="請輸入測試密碼..."
+        placeholder="請輸入測試密碼..."
         autocomplete="off"
       />
       <p class="text-center text-xl font-bold">
